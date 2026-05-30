@@ -1,3 +1,5 @@
+<img width="400" height="400" alt="survivalist_logo" src="https://github.com/user-attachments/assets/f9309d90-2278-46a0-adc0-6766df996800" />                                             
+
 # Survivalist
 
 **Hello, Survivalist.**
