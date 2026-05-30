@@ -17,3 +17,6 @@ Good luck. - REDACTED
 **IT IS NOT RECOMMENDED TO UPDATE THE MODS!**
 
 ****                                 
+
+Survivalist can't be uploaded to Modrinth because of Copyright Content (Mods and Resource Packs).                                         
+All of these Mods are available online on Curseforge. Some of these Mods come from Modrinth, since they either were not available for the Minecraft Version or not downloadable from Curseforge.                          
