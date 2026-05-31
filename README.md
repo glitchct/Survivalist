@@ -13,10 +13,12 @@ Good luck. - REDACTED
 ****
 
 ### Notice!
-**DO NOT UPDATED SUPERB WARFARE ! IT WILL BREAK THE MODPACK. IF YOU DO, REINSTALL v.0.8.8 OF SUPERB WARFARE!**                           
-**IT IS NOT RECOMMENDED TO UPDATE THE MODS!**
+**This Modpack has over 100 Mods. It's recommended to assign atleast 8-12GB of RAM to the Modpack.**                                                  
+**If you dont have over 16-32GB, I do NOT recommend to play this Modpack!**
 
 ****                                 
 
 Survivalist can't be uploaded to Modrinth because of Copyright Content (Mods and Resource Packs).                                         
 All of these Mods are available online on Curseforge. Some of these Mods come from Modrinth, since they either were not available for the Minecraft Version or not downloadable from Curseforge.                          
+
+**I will try getting the modpack online atleast at CurseForge.**
