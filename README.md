@@ -1,6 +1,7 @@
-<img width="400" height="400" alt="survivalist_logo" src="https://github.com/user-attachments/assets/f9309d90-2278-46a0-adc0-6766df996800" />                                             
+<img width="400" height="400" alt="szlogo" src="https://github.com/user-attachments/assets/6aa18414-6ba5-4bcd-a747-dbd699ce342f" />                           
+                                    
 
-# Survivalist
+# SurvivalistZ
 
 **Hello, Survivalist.**
                             
@@ -18,7 +19,7 @@ Good luck. - REDACTED
 
 ****                                 
 
-Survivalist can't be uploaded to Modrinth because of Copyright Content (Mods and Resource Packs).                                         
+SurvivalistZ can't be uploaded to Modrinth because of Copyright Content (Mods and Resource Packs).                                         
 All of these Mods are available online on Curseforge. Some of these Mods come from Modrinth, since they either were not available for the Minecraft Version or not downloadable from Curseforge.                          
 
 **I will try getting the modpack online atleast at CurseForge.**
